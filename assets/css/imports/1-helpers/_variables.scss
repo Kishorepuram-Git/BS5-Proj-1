@@ -1,0 +1,43 @@
+ // GLOBAL VARIABLES
+
+
+ @font-face {
+    font-family: 'ooredoo-heavy';
+    src: url('fonts/Ooredoo-Heavy.woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+ @font-face {
+    font-family: 'NotoRegular';
+    src: url('fonts/NotoSans-Regular.woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+// Raley Font family
+$headding:'ooredoo-heavy', Arial, Helvetica, sans-serif;
+$bodytext:'NotoRegular', Arial, Helvetica, sans-serif;
+
+
+
+
+
+
+
+
+
+// scss-docs-start theme-color-variables
+$primary:       #ed1c24 ;
+$secondary:     #221E20;
+// scss-docs-end theme-color-variables
+
+
+
+
+
